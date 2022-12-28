@@ -1,9 +1,10 @@
 ## Hi, I'am LizqwerScott 👋
 
-### About me
+### :book: About me
+- My favourite editor is [Emacs](https://www.gnu.org/software/emacs/)
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
-
-Skills: Python, C, C++, Emacs Lisp, Common Lisp, TypeScript and more
+Skills: Python, C, C++, Emacs Lisp, Common Lisp, JavaScript and more
 
 
 ### Coding Life
